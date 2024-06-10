@@ -6,7 +6,7 @@ This is a Python script with a GUI that automatically sorts League of Legends ga
 - Monitors a specified folder for new video files.
 - Fetches information from the League of Legends client to determine the champion played and the latest in-game event.
 - Creates folders based on the event type and sorts the videos within those folders.
-- Optionally renames the video files with the champion name and timestamp.
+- Renames the video files with the champion name and timestamp.
 
 ## GUI
 The script also includes a simple GUI that allows you to:
