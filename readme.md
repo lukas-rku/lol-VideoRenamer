@@ -25,7 +25,7 @@ The script also includes a simple GUI that allows you to:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/league-of-legends-video-sorter.git
+   git clone https://github.com/lukas-rku/lol-VideoRenamer.git
    ```
 2. Install dependencies:
    ```bash
